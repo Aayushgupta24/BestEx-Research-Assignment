@@ -1,0 +1,7 @@
+Symbol,,,,,,, amp,,,,,,, 0, 0, , 
+Symbol,,,, estamp,,,, 0, 0, , 
+Symbol,, imestamp,, 0, 0, , 
+Symbol,,, mestamp,,, 0, 0, , 
+Symbol,,,,,,,, mp,,,,,,,, 0, 0, , 
+Symbol,,,,, stamp,,,,, 0, 0, , 
+Symbol,,,,,, tamp,,,,,, 0, 0, , 
